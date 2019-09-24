@@ -1,3 +1,4 @@
 class Song 
-  att_accessor :name, :artist, :genre 
+  att_accessor :name, :artist, :genre
+  
 end 
