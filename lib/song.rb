@@ -15,7 +15,7 @@ class Song
   def self.count
     @@count
     
-    song 
+    song = song.new()
   end
   
 end 
